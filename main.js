@@ -1,4 +1,12 @@
-const links = ['https://t.me/hamster_kombat_bot?start=kentId6700706092'];
+const links = [
+    'https://t.me/hamster_kombat_bot?start=kentId425512839',
+    'https://t.me/hamster_kombat_bot/start?startapp=kentId474502779', // i
+    'https://t.me/hamster_kombat_bot?start=kentId6700706092',
+    'https://t.me/hamster_kombat_bot/start?startapp=kentId5047182152', // i
+    'https://t.me/hamster_kombat_bot?start=kentId6700706092',
+    'https://t.me/hamster_kombat_bot/start?startapp=kentId7151409218', // i
+];
+
 const defaultLink = links[0];
 const cta = document.getElementById('cta');
 
